@@ -1,0 +1,3 @@
+/mnt/d/project/makeDownReader/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/project/makeDownReader/cmake-build-debug/CMakeFiles/makeDownReader.dir
+/mnt/d/project/makeDownReader/cmake-build-debug/CMakeFiles/edit_cache.dir

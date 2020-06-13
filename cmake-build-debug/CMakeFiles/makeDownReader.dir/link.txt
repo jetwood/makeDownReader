@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/makeDownReader.dir/src/main.c.o CMakeFiles/makeDownReader.dir/src/markDown.c.o  -o makeDownReader  -L/mnt/d/project/makeDownReader/lib 
